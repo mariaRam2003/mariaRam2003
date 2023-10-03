@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Marta Ramirez</h1>
-<h3 align="center">A passionate Computer Science Student @ UVG</h3> <img src="https://res.cloudinary.com/webuvg/image/upload/f_auto,q_auto,w_164,c_scale,fl_lossy,dpr_2.63/f_auto,q_auto,fl_lossy,c_scale,w_200/v1641327930/WEB/Nosotros/Imagen%20Institucional/Logotipo%20UVG/Logotipo%20UVG/Logo-UVG-cuadrado.jpg" alt="mariaram2003" />
+<h3 align="center">A passionate Computer Science Student @ UVG</h3> <img src="https://res.cloudinary.com/webuvg/image/upload/f_auto,q_auto,w_164,c_scale,fl_lossy,dpr_2.63/f_auto,q_auto,fl_lossy,c_scale,w_200/v1641327930/WEB/Nosotros/Imagen%20Institucional/Logotipo%20UVG/Logotipo%20UVG/Logo-UVG-cuadrado.jpg" alt="mariaram2003" height="30" width="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariaram2003&label=Profile%20views&color=da0b0b&style=flat" alt="mariaram2003" /> </p>
 
