@@ -31,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaram2003&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="mariaram2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaram2003&show_icons=true&theme=synthwave&locale=en" alt="mariaram2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariaram2003&" alt="mariaram2003" /></p>
