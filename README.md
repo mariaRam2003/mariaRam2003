@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [Software WebPage](https://gruposli-gt.web.app)
 
-- 🌱 I’m currently learning **Web Development, Computer Graphics, Communication for Science and Technology**
+- 🌱 I’m currently learning **AI, Operating Systems, Data Bases 2, Programming Language Design**
 
-- 👨‍💻 All of my projects are available at [https://mm-personal-website.web.app](https://mm-personal-website.web.app)
+- 👨‍💻 All of my projects are available here and mu web projects at [https://mm-personal-website.web.app](https://mm-personal-website.web.app)
 
-- 💬 Ask me about **react, firebase, data bases**
+- 💬 Ask me about **react, firebase, data bases, Front-End, Web Design, UX/UI, Software Development**
 
 - 📫 How to reach me **gilmariaramrz@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VVLR9RvwFxeTt4Ptx5Lp2-UolOkdnlAm/view?usp=sharing](https://drive.google.com/file/d/1VVLR9RvwFxeTt4Ptx5Lp2-UolOkdnlAm/view?usp=sharing)
 
-- ⚡ Fun fact **I love dogs, cooking, and Formula 1**
+- ⚡ Fun fact **I love dogs, cooking, and Formula 1 (dream job)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
