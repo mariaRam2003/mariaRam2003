@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI, Operating Systems, Data Bases 2, Programming Language Design**
 
-- 👨‍💻 All of my projects are available here and mu web projects at [https://mm-personal-website.web.app](https://mm-personal-website.web.app)
+- 👨‍💻 All of my projects are available here and my web projects at [https://mm-personal-website.web.app](https://mm-personal-website.web.app)
 
 - 💬 Ask me about **react, firebase, data bases, Front-End, Web Design, UX/UI, Software Development**
 
