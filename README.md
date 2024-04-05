@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **gilmariaramrz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VVLR9RvwFxeTt4Ptx5Lp2-UolOkdnlAm/view?usp=sharing](https://drive.google.com/file/d/1VVLR9RvwFxeTt4Ptx5Lp2-UolOkdnlAm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VVLR9RvwFxeTt4Ptx5Lp2-UolOkdnlAm/view?usp=sharing](https://drive.google.com/file/d/1BKjak6Vtn7Le5xn72GoTZdQ71TARSVgV/view?usp=sharing)
 
-- ⚡ Fun fact **I love dogs, cooking, and Formula 1 (dream job)**
+- ⚡ Fun fact **I love dogs, tennis, cooking, and Formula 1 (dream job)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
