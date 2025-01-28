@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gilmariaramrz@gmail.com**
 
-- 📄 Know about my experiences [Resumes](https://docs.google.com/document/d/154tpHGXzMW1pfOryEkTMTclhb42y7xwN/edit?usp=sharing&ouid=116556397486307376507&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resumes](https://drive.google.com/drive/folders/1l0MOkGZNDvLPRs-jWHbu1a-TgTJBAL-7?usp=sharing)
 
 - ⚡ Fun fact **I love dogs, tennis, cooking, and Formula 1 (dream job)**
 
