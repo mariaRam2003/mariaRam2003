@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Software WebPage](https://gruposli-gt.web.app)
 
-- 🌱 I’m currently learning **AI, Operating Systems, Data Bases 2, Programming Language Design**
+- 🌱 I’m currently learning **AI, Project and IT administration (PMI Certificate), Computer Vision, Security in Systems**
 
 - 👨‍💻 All of my projects are available here and my web projects at [https://mm-personal-website.web.app](https://mm-personal-website.web.app)
 
-- 💬 Ask me about **react, firebase, data bases, Front-End, Web Design, UX/UI, Software Development**
+- 💬 Ask me about **react, firebase, data bases, Front-End, Web Design, UX/UI, Software Development, AI**
 
 - 📫 How to reach me **gilmariaramrz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VVLR9RvwFxeTt4Ptx5Lp2-UolOkdnlAm/view?usp=sharing](https://drive.google.com/file/d/1BKjak6Vtn7Le5xn72GoTZdQ71TARSVgV/view?usp=sharing)
+- 📄 Know about my experiences [Resumes](https://docs.google.com/document/d/154tpHGXzMW1pfOryEkTMTclhb42y7xwN/edit?usp=sharing&ouid=116556397486307376507&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love dogs, tennis, cooking, and Formula 1 (dream job)**
 
