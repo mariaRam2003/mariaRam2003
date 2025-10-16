@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Software WebPage](https://gruposli-gt.web.app)
 
-- 🌱 I’m currently learning **AI, Project and IT administration (PMI Certificate), Computer Vision, Security in Systems**
+- 🌱 I’m currently learning **Project Management, Reinforcement Learning, Machine Learning Engineering, NLP, Responsible AI**
 
-- 👨‍💻 All of my projects are available here and my web projects at [https://mm-personal-website.web.app](https://mm-personal-website.web.app)
+- 👨‍💻 All of my projects are available here at Github and my web projects at [https://mm-personal-website.web.app](https://mm-personal-website.web.app)
 
-- 💬 Ask me about **react, firebase, data bases, Front-End, Web Design, UX/UI, Software Development, AI**
+- 💬 Ask me about **react, firebase, data bases, Front-End, Web Design, UX/UI, Data Analisys, AI**
 
 - 📫 How to reach me **gilmariaramrz@gmail.com**
 
